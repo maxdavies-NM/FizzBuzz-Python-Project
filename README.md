@@ -47,4 +47,4 @@ FizzBuzz
 ```
 ## What This Taught Me
 
-By doing this FizzBuzz project it has helped me practice and understand how to use Python loops, conditional statements and the modulo operator.
+By doing this FizzBuzz project it has helped me practice and understand how to use Python loops, conditional statements and the modulo operator. 
