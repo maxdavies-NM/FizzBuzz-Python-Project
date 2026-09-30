@@ -4,7 +4,7 @@ This repository contains a Python implemenation of the FizzBuzz programming chal
 
 ## About FizzBuzz
 
-The FizzBuzz challenge is a common exercise that is used to demonstrate Python concepts such as conditional Statements, loops and the modulo operator.
+The FizzBuzz challenge is a common exercise that is used to demonstrate Python concepts such as conditional statements, loops and the modulo operator.
 
 + The program would check numbers from 1 to 100
 + If the number is divisible by 3, it will print `fizz`
