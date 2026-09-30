@@ -7,14 +7,14 @@ This repository contains a Python implemenation of the FizzBuzz programming chal
 The FizzBuzz challenge is a common exercise that is used to demonstrate Python concepts such as conditional Statements, loops and the modulo operator.
 
 + The program would check numbers from 1 to 100
-+ If the number is divisible by 3, it will print > **fizz**
-+ If the number is divisible by 5, it will print > **buzz**
-+ If the number is divisible bu both 3 and 5, it will print > **fizzbuzz**
++ If the number is divisible by 3, it will print ```fizz
++ If the number is divisible by 5, it will print ```buzz
++ If the number is divisible bu both 3 and 5, it will print ```fizzbuzz
 + Otherwise it will just print a number
 
 ## FizzBuzz Example
 
-https://github.com/maxdavies-NM/FizzBuzz-Python-Project/blob/main/fizzbuzz.py
+![FizzBuzz](fizzbuzz.py)
 
 ## What This Taught Me
 
